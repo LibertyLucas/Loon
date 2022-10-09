@@ -3,6 +3,9 @@
  [
    {"name":"HamiVideo", 
     "url":"https://raw.githubusercontent.com/LibertyLucas/Loon/main/icons/HamiVideo.png"
+   },
+  {"name":"F1TV", 
+    "url":"https://raw.githubusercontent.com/LibertyLucas/Loon/main/icons/F1TV.jpg"
    }
  ]
 }
