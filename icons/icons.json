@@ -1,14 +1,8 @@
-{"name":"Fileball icons", "description":"by Lucas",
+{"name":"icons", "description":"by Lucas",
  "icons":
  [
-   {"name":"Jianguoyun", 
-    "url":"https://raw.githubusercontent.com/LibertyLucas/Img/main/fileball/Jianguoyun.png"
-   },
-   {"name":"Aliyunpan",
-    "url":"https://raw.githubusercontent.com/LibertyLucas/Img/main/fileball/Aliyunpan.png"
-   },
-   {"name":"Alist",
-    "url":"https://raw.githubusercontent.com/LibertyLucas/Img/main/fileball/Alist.png"
+   {"name":"HamiVideo", 
+    "url":"https://raw.githubusercontent.com/LibertyLucas/Loon/main/icons/HamiVideo.png"
    }
  ]
 }
