@@ -1,0 +1,8 @@
+# > HBO Max
+user-agent,HBO%20NOW*
+host-suffix,hbo.com
+host-suffix,hbogo.com
+host-suffix,hbonow.com
+user-agent,HBOMAX*
+host-suffix,hbomax.com
+host-suffix,hbomaxcdn.com
