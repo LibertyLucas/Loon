@@ -1,8 +1,8 @@
 # >iQIYI
-host-suffix,iq.com
-host,intl.iqiyi.com
-host,intl-rcd.iqiyi.com
-host,intl-subscription.iqiyi.com
+domain-suffix,iq.com
+domain,intl.iqiyi.com
+domain,intl-rcd.iqiyi.com
+domain,intl-subscription.iqiyi.com
 ip-cidr,23.53.32.88/32
 ip-cidr,23.211.15.99/32
 ip-cidr,103.5.34.153/32
