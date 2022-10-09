@@ -1,4 +1,4 @@
 # > Shudder
-DOMAIN-SUFFIX,shudder.com,Shudder
-DOMAIN-SUFFIX,amcsvod.io,Shudder
-DOMAIN,boltshudder1-a.akamaihd.net,Shudder
+DOMAIN-SUFFIX,shudder.com
+DOMAIN-SUFFIX,amcsvod.io
+DOMAIN,boltshudder1-a.akamaihd.net
