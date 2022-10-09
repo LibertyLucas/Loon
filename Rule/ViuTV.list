@@ -1,7 +1,7 @@
 # > ViuTV
 user-agent,Viu*
-host-suffix,viu.tv
-host,api.viu.now.com
-host,d1k2us671qcoau.cloudfront.net
-host,d2anahhhmp1ffz.cloudfront.net
-host,dfp6rglgjqszk.cloudfront.net
+domain-suffix,viu.tv
+domain,api.viu.now.com
+domain,d1k2us671qcoau.cloudfront.net
+domain,d2anahhhmp1ffz.cloudfront.net
+domain,dfp6rglgjqszk.cloudfront.net
