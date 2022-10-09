@@ -1,8 +1,8 @@
 # > Disney+
-user-agent, Disney+*
-host, cdn.registerdisney.go.com
-host-suffix, dssott.com
-host-suffix, disneystreaming.com
-host-suffix, disney-plus.net
-host-suffix, disneyplus.com
-host-suffix, bamgrid.com
+user-agent,Disney+*
+domain,cdn.registerdisney.go.com
+domain-suffix,dssott.com
+domain-suffix,disneystreaming.com
+domain-suffix,disney-plus.net
+domain-suffix,disneyplus.com
+domain-suffix,bamgrid.com
