@@ -1,0 +1,12 @@
+# > Netflix
+user-agent,Argo*
+host-suffix,netflix.com
+host-suffix,netflix.net
+host-suffix,nflxext.com
+host-suffix,nflximg.com
+host-suffix,nflximg.net
+host-suffix,nflxso.net
+host-suffix,nflxvideo.net
+host-keyword,netflixdnstest
+host-keyword,apiproxy-device-prod-nlb-
+host-keyword,dualstack.apiproxy-
