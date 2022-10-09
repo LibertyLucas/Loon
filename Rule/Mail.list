@@ -1,6 +1,6 @@
 # > Mail
-host-suffix,smtp.gmail.com
-host-suffix,imap.gmail.com
-host-suffix,outlook.office365.com
-host-suffix,smtp-mail.outlook.com
-host-suffix,imap-mail.outlook.com
+domain-suffix,smtp.gmail.com
+domain-suffix,imap.gmail.com
+domain-suffix,outlook.office365.com
+domain-suffix,smtp-mail.outlook.com
+domain-suffix,imap-mail.outlook.com
