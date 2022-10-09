@@ -1,3 +1,3 @@
 # > Peacock
-USER-AGENT,PeacockMobile*,Peacock
-HOST-SUFFIX,peacocktv.com,Peacock
+USER-AGENT,PeacockMobile*
+HOST-SUFFIX,peacocktv.com
