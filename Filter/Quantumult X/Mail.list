@@ -1,0 +1,6 @@
+# > Mail
+domain-suffix,smtp.gmail.com
+domain-suffix,imap.gmail.com
+domain-suffix,outlook.office365.com
+domain-suffix,smtp-mail.outlook.com
+domain-suffix,imap-mail.outlook.com
