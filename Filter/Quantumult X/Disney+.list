@@ -1,0 +1,8 @@
+# > Disney+
+user-agent,Disney+*
+domain,cdn.registerdisney.go.com
+domain-suffix,dssott.com
+domain-suffix,disneystreaming.com
+domain-suffix,disney-plus.net
+domain-suffix,disneyplus.com
+domain-suffix,bamgrid.com
