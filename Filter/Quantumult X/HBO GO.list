@@ -1,0 +1,20 @@
+# > HBO GO
+user-agent,HBO%20GO%20PROD*
+domain-suffix,hbogoasia.com
+domain-suffix,hbogoasia.hk
+domain-KEYWORD,.hbogoasia.
+domain,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+domain,bcbolthboa-a.akamaihd.net
+domain,cf-images.ap-southeast-1.prod.boltdns.net
+domain,dai3fd1oh325y.cloudfront.net
+domain,hboasia1-i.akamaihd.net
+domain,hboasia2-i.akamaihd.net
+domain,hboasia3-i.akamaihd.net
+domain,hboasia4-i.akamaihd.net
+domain,hboasia5-i.akamaihd.net
+domain,hboasialive.akamaized.net
+domain,hbogoprod-vod.akamaized.net
+domain,hbolb.onwardsmg.com
+domain,hbounify-prod.evergent.com
+domain,players.brightcove.net
+domain,s3-ap-southeast-1.amazonaws.com
