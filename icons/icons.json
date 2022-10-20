@@ -12,6 +12,9 @@
    },
   {"name":"Titan", 
     "url":"https://raw.githubusercontent.com/LibertyLucas/Loon/main/icons/Titan.png"
+   },
+  {"name":"BYG", 
+    "url":"https://raw.githubusercontent.com/LibertyLucas/Rule/main/icons/byg.png"
    }
  ]
 }
