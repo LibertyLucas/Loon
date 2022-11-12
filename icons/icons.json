@@ -18,6 +18,12 @@
    },
   {"name":"Texon", 
     "url":"https://raw.githubusercontent.com/LibertyLucas/Rule/main/icons/Texon.png"
+   },
+  {"name":"Viki", 
+    "url":"https://raw.githubusercontent.com/LibertyLucas/Rule/main/icons/Viki.png"
+   },
+  {"name":"", 
+    "url":"https://raw.githubusercontent.com/LibertyLucas/Rule/main/icons/Setanta.png"
    }
  ]
 }
