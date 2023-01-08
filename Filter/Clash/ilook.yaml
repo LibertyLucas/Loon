@@ -17,5 +17,5 @@ payload:
 - IP-CIDR,93.189.56.0/24
 - DOMAIN-SUFFIX,akciatv.ru
 - DOMAIN-SUFFIX,russtv.net
-- DOMAIN-SUFFIX,zatikov.net,
+- DOMAIN-SUFFIX,zatikov.net
 - DOMAIN-KEYWORD,russtv
