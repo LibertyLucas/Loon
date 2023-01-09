@@ -1,5 +1,5 @@
 payload:
-# > team
-- DOMAIN-SUFFIX,troya.tv
-- DOMAIN-SUFFIX,tv.team
-- IP-CIDR,146.59.110.214/32
+  # > team
+  - DOMAIN-SUFFIX,troya.tv
+  - DOMAIN-SUFFIX,tv.team
+  - IP-CIDR,146.59.110.214/32
