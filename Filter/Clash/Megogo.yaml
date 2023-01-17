@@ -1,7 +1,7 @@
 payload:
   # > Megogo
   - PROCESS-NAME,com.megogo.application
-  - DOMAIN-KEYWORD,vcdn.biz
+  # DOMAIN-KEYWORD,vcdn.biz
   - DOMAIN-KEYWORD,megogo
   - DOMAIN-SUFFIX,megogo.net
   - DOMAIN-SUFFIX,vcdn.biz
