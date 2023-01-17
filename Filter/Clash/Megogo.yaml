@@ -4,4 +4,4 @@ payload:
   # DOMAIN-KEYWORD,vcdn.biz
   - DOMAIN-KEYWORD,megogo
   - DOMAIN-SUFFIX,megogo.net
-  - DOMAIN-SUFFIX,vcdn.biz
+  # DOMAIN-SUFFIX,vcdn.biz
