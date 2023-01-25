@@ -3,6 +3,7 @@ payload:
   - IP-CIDR,104.21.234.0/24
   - IP-CIDR,104.21.235.0/24
   - IP-CIDR,172.67.180.253/24
+  - IP-CIDR,172.67.161.195/24
   - DOMAIN-SUFFIX,lightiptv.cc
   - DOMAIN-SUFFIX,ottbill.cc
   - DOMAIN-SUFFIX,pp.ru
