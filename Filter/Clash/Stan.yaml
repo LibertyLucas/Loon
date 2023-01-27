@@ -1,0 +1,11 @@
+payload:
+    # > Stan
+  - DOMAIN,streamcoimg-a.akamaihd.net
+  - DOMAIN-SUFFIX,stan.com.au
+  - DOMAIN-SUFFIX,stan.video
+  - DOMAIN,live01-stan.akamaized.net
+  - DOMAIN,live02-stan.akamaized.net
+  - DOMAIN,live03-stan.akamaized.net
+  - DOMAIN,live04-stan.akamaized.net
+  - 329-stan.akamaized.net
+  - 436-stan.akamaized.net
