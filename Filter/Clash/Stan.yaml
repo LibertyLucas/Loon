@@ -7,5 +7,6 @@ payload:
   - DOMAIN,live02-stan.akamaized.net
   - DOMAIN,live03-stan.akamaized.net
   - DOMAIN,live04-stan.akamaized.net
+  - 290-stan.akamaized.net
   - 329-stan.akamaized.net
   - 436-stan.akamaized.net
