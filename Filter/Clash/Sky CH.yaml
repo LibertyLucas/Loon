@@ -1,0 +1,9 @@
+payload:
+  # > Sky CH
+  - PROCESS-NAME,homedia.sky.sport
+  - PROCESS-NAME,sky.ch
+  - DOMAIN-SUFFIX,infomaniak.com
+  - DOMAIN-SUFFIX,sky.ch
+  - DOMAIN-SUFFIX,sky-sport.ch
+  - DOMAIN-SUFFIX,sctv.ch
+  - DOMAIN-SUFFIX,zahs.tv
