@@ -36,6 +36,9 @@
    },
   {"name":"sky", 
     "url":"https://raw.githubusercontent.com/LibertyLucas/Rule/main/icons/sky.png"
+   },
+  {"name":"mewatch", 
+    "url":"https://raw.githubusercontent.com/LibertyLucas/Rule/main/icons/mewatch.png"
    }
  ]
 }
