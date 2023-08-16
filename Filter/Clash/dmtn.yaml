@@ -11,3 +11,8 @@ payload:
   - IP-CIDR,45.143.0.0/12
   - DOMAIN-SUFFIX,dmtn.tv
   - DOMAIN-SUFFIX,venom-vip.com
+  - DOMAIN-SUFFIX,dmtn-tv.net
+  - DOMAIN-SUFFIX,kudo-iptv.com
+  - IP-CIDR,122.254.0.0/12
+  - IP-CIDR,190.93.0.0/12
+  - IP-CIDR,217.74.0.0/12
